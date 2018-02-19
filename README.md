@@ -58,6 +58,4 @@ For this purpose we suggest using System.identityHashCode to uniquely identify o
 The algorithm will require the use of one of the many techniques for detection of the rings of references.
 Please note that the class must be thread safe.
 
-## Please, create an operating Angular component from HTML that produces a DOM, containing another working Angular components.
-
 ## For all questions please provide code snippets. One answer one separate commit please.
